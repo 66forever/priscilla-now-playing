@@ -1,0 +1,8 @@
+{
+  "name": "priscilla-now-playing",
+  "version": "1.0.0",
+  "description": "Spotify Now Playing for Priscilla Belle",
+  "dependencies": {
+    "node-fetch": "^2.6.9"
+  }
+}

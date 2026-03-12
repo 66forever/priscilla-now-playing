@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/now-playing", "destination": "/api/now-playing" },
+    { "source": "/login", "destination": "/api/login" },
+    { "source": "/callback", "destination": "/api/callback" }
+  ]
+}
